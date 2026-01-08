@@ -1,16 +1,16 @@
 <p align="center">
-  <a href="https://www.monpetitgarage.fr">
-    <img src="https://www.monpetitgarage.fr/og.png" alt="MonPetitGarage" width="830">
+  <a href="https://monpetitgarage.fr">
+    <img src="https://monpetitgarage.fr/og.png" alt="MonPetitGarage" width="830">
   </a>
 </p>
   
 # MonPetitGarage - Releases
 
-Binaires officiels de l'application desktop [MonPetitGarage](https://www.monpetitgarage.fr).
+Binaires officiels de l'application desktop [MonPetitGarage](https://monpetitgarage.fr).
 
 ## Téléchargement
 
-Rendez-vous sur la [page de téléchargement](https://www.monpetitgarage.fr/telecharger) ou directement dans les
+Rendez-vous sur la [page de téléchargement](https://monpetitgarage.fr/telecharger) ou directement dans les
 [Releases](https://github.com/monpetitgarage/releases.monpetitgarage.fr/releases/latest).
 
 | Plateforme | Fichier |
@@ -34,6 +34,6 @@ des fichiers.
 
 ## Liens
 
-- [Site web](https://www.monpetitgarage.fr)
+- [Site web](https://monpetitgarage.fr)
 - [Application web](https://app.monpetitgarage.fr)
-- [Télécharger](https://www.monpetitgarage.fr/telecharger)
+- [Télécharger](https://monpetitgarage.fr/telecharger)
