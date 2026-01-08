@@ -1,0 +1,23 @@
+{
+  "version": "1.7.4",
+  "notes": "Mise à jour v1.7.4",
+  "pub_date": "2026-01-08T15:16:39Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/monpetitgarage/releases.monpetitgarage.fr/releases/download/v1.7.4/MonPetitGarage_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMnhHc0YrN1BKUUNBMVQ0YVhqSjRodmsyZTJmbHp6TEpOT2R5UXhreS9pTWlBWUlLTWxrQ28rbXBDV3VTdnlzMlY5WDFiRXh4czlibTVPV2RtdmpCemM2eVJRbkZoU2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODg0MTMyCWZpbGU6TW9uUGV0aXRHYXJhZ2UuYXBwLnRhci5negpFc2JyVytZWG50cWt2dHlBVFR0Z3hOY2JNcHV2TVlvSTJMMGtQVW1qT1Zaa3lzZ3ZXeXFjemU3WFVkVVVub0dJd09FUmxVZnJRd0lJSmFGU3BQTTdEUT09Cg=="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/monpetitgarage/releases.monpetitgarage.fr/releases/download/v1.7.4/MonPetitGarage_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMnhHc0YrN1BKUUhVQ0plUjJFUGZvZ3Bkc1JBeE5MY1VLS2RRbG5VNmJaWE5qZ1R2elpCaDA4aEdEWFVPQVNkWDRkSlpFZktVYVN6VTNOZFdLdnMwbDFnTmNhbDJ6Tnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODg0MDU3CWZpbGU6TW9uUGV0aXRHYXJhZ2UuYXBwLnRhci5negp0eUZRTGt3WkRQd0VDUE5hOXN0WG1NL0dpYlJSRmUvWXZvTjUxRG54blZsek9Md1Z4ekpERVdSMFBkL25CaDFRWHhTOGgxM2w5UDZuYlYxaUVOb3pCQT09Cg=="
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/monpetitgarage/releases.monpetitgarage.fr/releases/download/v1.7.4/MonPetitGarage_1.7.4_x64_en-US.msi.zip",
+      "signature": ""
+    },
+    "linux-x86_64": {
+      "url": "https://github.com/monpetitgarage/releases.monpetitgarage.fr/releases/download/v1.7.4/MonPetitGarage_1.7.4_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMnhHc0YrN1BKUUp6YWtSSk9XK1BkSStNWFZFbUNiUFFIb0NQRmd5SEFWeVY4dEpvbngwU041TTlwMkdpSitCYlRJazNTNHZxSTY2ZXZ1SVBtYmdMM2k4VGVuVkJ4QlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODg0MzE3CWZpbGU6TW9uUGV0aXRHYXJhZ2VfMS43LjRfYW1kNjQuQXBwSW1hZ2UKVXMwbWo0cXJEQlkwSjduNEhlWGtzNHlEL21saXFnZGM3amVETGRIVTdQK2lZdENPT1pHaVhRUDZFS2tScHd0WjBOOU5jM2RkaUIwZEtVOWQ1KytvQ3c9PQo="
+    }
+  }
+}
