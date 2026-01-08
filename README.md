@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.monpetitgarage.fr">
+    <img src="https://www.monpetitgarage.fr/og.png" alt="MonPetitGarage" width="830">
+  </a>
+</p>
+  
 # MonPetitGarage - Releases
 
 Binaires officiels de l'application desktop [MonPetitGarage](https://www.monpetitgarage.fr).
