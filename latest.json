@@ -1,23 +1,23 @@
 {
-  "version": "1.8.4",
-  "notes": "Mise à jour v1.8.4",
-  "pub_date": "2026-01-26T15:16:57Z",
+  "version": "1.8.5",
+  "notes": "Mise à jour v1.8.5",
+  "pub_date": "2026-01-29T15:52:36Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/monpetitgarage/releases.monpetitgarage.fr/releases/download/v1.8.4/MonPetitGarage_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMnhHc0YrN1BKUUYyWWhmeldnbG4yTXA3L0JKS2NuRkZVMkdYUWFMOUYzYytSR0xsWDMwL3RoWk5Va01LU1Mxbk1ETVdibGNvRUFYNW9PZld1M2lyYks2bDcyQ1BXQ0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDQwMTMxCWZpbGU6TW9uUGV0aXRHYXJhZ2UuYXBwLnRhci5negp3RUtMbVRqMmVZNjNsY1JzcHZOaG5NTzByWDhoeTNjMXVOT2NvOW1IQWY3VjhobFpHZjVlVERFbDI4UmFGNHBrQlJDeHNVcmdyTCtWYU9DVjFKZFlCUT09Cg=="
+      "url": "https://github.com/monpetitgarage/releases.monpetitgarage.fr/releases/download/v1.8.5/MonPetitGarage_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMnhHc0YrN1BKUUE3R3lsMlJtYlN5VXIxeVR0K1J1OUZLSVkySGYrNzFZU3FtU0x3ZHZ3NExEaG5EUTI1d3I0dVhvVXlXNXFoN3VwemJ6WW9qSnJ5clhGN1FLRm0yeVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NzAxNDAxCWZpbGU6TW9uUGV0aXRHYXJhZ2UuYXBwLnRhci5negpZY0FiWmUwT2FvRFZsVFdsY2dyaDNtelVmbHRReVlEdTJwQkZJa29xWnZMZTNMSllYYll5SkkxZFZLQWhuNzBYLzlSYzZrTVZCRTl5cXJTSWYwOVhDZz09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/monpetitgarage/releases.monpetitgarage.fr/releases/download/v1.8.4/MonPetitGarage_x64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMnhHc0YrN1BKUU1wTVAwTU1ieE5tQUlxUW1rdWNvdHRJcWtzUHAxZmtVOGJ0VTRHVW9ic0w2MTNsSnhVQW5aVHByY1kwWHpaUU1sVkhyangvQ3RqNGlBMW1Sb20yR2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDQwMDM3CWZpbGU6TW9uUGV0aXRHYXJhZ2UuYXBwLnRhci5nego5dVMwUStGdklpdzNYQ3FYL1h0czZLeFpDbW5xM0Q2NUdHbHRBd00rcWY1ekhVR3VsV1QydUI3dU41UnFiWkR1c3IzQ1JSdS9vMEJ6QVZ5ZjVCMHNDQT09Cg=="
+      "url": "https://github.com/monpetitgarage/releases.monpetitgarage.fr/releases/download/v1.8.5/MonPetitGarage_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMnhHc0YrN1BKUUFxRVM5T09FSVJpMVVhNjlTY3Y0Z2NZRGZaNzgxOWFzMmpFRVg4ZlZIL1d1TnBXUktuamlsZ0ZXS3AxYktQZmYzYnNlb1VlTCtuaGlqOGJDVTVyK0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NzAxMzU0CWZpbGU6TW9uUGV0aXRHYXJhZ2UuYXBwLnRhci5negphVkx0WUtJU2Yyb0t5NGlocmRxNEVDWDVYcno2UkVWdWVCZlgrUjBhYUZNWm44cWxFMlNjcVgxbnN5TVZNR0tIRktYZGJ5YWdqZHlEOXA5TU5qVE5DUT09Cg=="
     },
     "windows-x86_64": {
-      "url": "https://github.com/monpetitgarage/releases.monpetitgarage.fr/releases/download/v1.8.4/MonPetitGarage_1.8.4_x64_en-US.msi.zip",
+      "url": "https://github.com/monpetitgarage/releases.monpetitgarage.fr/releases/download/v1.8.5/MonPetitGarage_1.8.5_x64_en-US.msi.zip",
       "signature": ""
     },
     "linux-x86_64": {
-      "url": "https://github.com/monpetitgarage/releases.monpetitgarage.fr/releases/download/v1.8.4/MonPetitGarage_1.8.4_amd64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMnhHc0YrN1BKUU5zbXZ2K3NXbUUycENJdHZVV1lLN1R0ZnkzWjBJcUZ0RnVBMmlXVjFTdU9NWUdsaitGRFFUTjFseEZJcGdtRHMwY0xEMlRCem9VSWgxamo4Yi84Rnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDQwMjE4CWZpbGU6TW9uUGV0aXRHYXJhZ2VfMS44LjRfYW1kNjQuQXBwSW1hZ2UKUmdsbm5ndTBmREs5eXJJNnY2Wm5nSEp2Q2Q5SFhnYS9PUG02cmI1enEzVndNQVRwRDk1c0pTbkQ1RHZSQ0NYb2dWTDl4b05MY0VtLzFoN1hTMXhEQXc9PQo="
+      "url": "https://github.com/monpetitgarage/releases.monpetitgarage.fr/releases/download/v1.8.5/MonPetitGarage_1.8.5_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMnhHc0YrN1BKUU9WajliaUN4aHBwLzdIQWFUc2FwLzN4alQyazk1L3VHZkdLN3VtaXkxc0xWc0ZYN1dMM0hmV0dpaHYrbkYrK1J5UXZxTktnNFMxMm9RZGYwS0xvekFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NzAxNTY1CWZpbGU6TW9uUGV0aXRHYXJhZ2VfMS44LjVfYW1kNjQuQXBwSW1hZ2UKM2prWldqVERFSm1XUGhEV3VwaXBHa2hsOCtKKzJFZHpiOC9qeU1mbXdHTkpZVjh2Uk9TTWo1RUlYN0d3REpoRjFERVBIUmRhcE1Ta2tvTUE5QnZwQ3c9PQo="
     }
   }
 }
